@@ -1,4 +1,8 @@
-# Hi, I'm Eesha 👋
+<p align="center">
+  <img src="banner.svg" alt="Eesha Rizwan" width="100%">
+</p>
+
+<p align="center"><b>Hi, I'm Eesha 👋</b></p>
 
 CS master's student at **UIUC** working on data pipelines, dashboards, and LLM systems. Looking for **data science and analytics** roles.
 
@@ -6,8 +10,8 @@ CS master's student at **UIUC** working on data pipelines, dashboards, and LLM s
 
 ### Right now
 
-- 📊 **Data Steward** at the Education Justice Project, building Tableau dashboards and databases
-- 🖥️ **Research & Documentation Assistant** with Research Enablement in UIUC's Office of the CIO, building data tools used across campus
+- 📊 **Data Steward** at the Education Justice Project, building Tableau dashboards and moving EJP's LLM chatbot onto university-hosted open models
+- 🖥️ **Graduate Developer, Research Enablement** in UIUC's Office of the CIO, building data tools used across campus and a chatbot for the Research Enablement website
 - 🎓 MS in Computer Science at UIUC (expected 2028), BA in Data Science from Knox College
 
 ### Featured projects
@@ -23,17 +27,17 @@ CS master's student at **UIUC** working on data pipelines, dashboards, and LLM s
 
 ### Tools I use
 
-![Python](https://img.shields.io/badge/Python-12343B?style=flat&logo=python&logoColor=E8A317)
-![SQL](https://img.shields.io/badge/SQL-12343B?style=flat&logo=postgresql&logoColor=E8A317)
-![R](https://img.shields.io/badge/R-12343B?style=flat&logo=r&logoColor=E8A317)
-![pandas](https://img.shields.io/badge/pandas-12343B?style=flat&logo=pandas&logoColor=E8A317)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-12343B?style=flat&logo=scikitlearn&logoColor=E8A317)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-12343B?style=flat&logo=tensorflow&logoColor=E8A317)
-![FastAPI](https://img.shields.io/badge/FastAPI-12343B?style=flat&logo=fastapi&logoColor=E8A317)
-![React](https://img.shields.io/badge/React-12343B?style=flat&logo=react&logoColor=E8A317)
-![Tableau](https://img.shields.io/badge/Tableau-12343B?style=flat&logo=tableau&logoColor=E8A317)
-![Power BI](https://img.shields.io/badge/Power%20BI-12343B?style=flat&logo=powerbi&logoColor=E8A317)
-![Streamlit](https://img.shields.io/badge/Streamlit-12343B?style=flat&logo=streamlit&logoColor=E8A317)
+![Python](https://img.shields.io/badge/Python-1D2029?style=for-the-badge&logo=python&logoColor=F7845E)
+![SQL](https://img.shields.io/badge/SQL-1D2029?style=for-the-badge&logo=postgresql&logoColor=F7845E)
+![R](https://img.shields.io/badge/R-1D2029?style=for-the-badge&logo=r&logoColor=F7845E)
+![pandas](https://img.shields.io/badge/pandas-1D2029?style=for-the-badge&logo=pandas&logoColor=F7845E)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1D2029?style=for-the-badge&logo=scikitlearn&logoColor=F7845E)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1D2029?style=for-the-badge&logo=tensorflow&logoColor=F7845E)
+![FastAPI](https://img.shields.io/badge/FastAPI-1D2029?style=for-the-badge&logo=fastapi&logoColor=F7845E)
+![React](https://img.shields.io/badge/React-1D2029?style=for-the-badge&logo=react&logoColor=F7845E)
+![Tableau](https://img.shields.io/badge/Tableau-1D2029?style=for-the-badge&logo=tableau&logoColor=F7845E)
+![Power BI](https://img.shields.io/badge/Power%20BI-1D2029?style=for-the-badge&logo=powerbi&logoColor=F7845E)
+![Streamlit](https://img.shields.io/badge/Streamlit-1D2029?style=for-the-badge&logo=streamlit&logoColor=F7845E)
 
 ### Contributions, as eaten by Pac-Man
 
