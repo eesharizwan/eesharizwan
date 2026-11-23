@@ -7,7 +7,7 @@ CS master's student at **UIUC** working on data pipelines, dashboards, and LLM s
 ### Right now
 
 - 📊 **Data Steward** at the Education Justice Project, building Tableau dashboards and databases
-- 🖥️ **Research & Documentation Assistant** at Illinois Computes (UIUC Office of the CIO), building data pipelines and researcher-facing docs
+- 🖥️ **Research & Documentation Assistant** with Research Enablement in UIUC's Office of the CIO, building data tools used across campus
 - 🎓 MS in Computer Science at UIUC (expected 2028), BA in Data Science from Knox College
 
 ### Featured projects
