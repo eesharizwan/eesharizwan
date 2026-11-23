@@ -39,7 +39,7 @@ CS master's student at **UIUC** working on data pipelines, dashboards, and LLM s
 ![Power BI](https://img.shields.io/badge/Power%20BI-1D2029?style=for-the-badge&logo=powerbi&logoColor=F7845E)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1D2029?style=for-the-badge&logo=streamlit&logoColor=F7845E)
 
-### Contributions, as eaten by Pac-Man
+### Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eesharizwan/eesharizwan/output/pacman-contribution-graph-dark.svg">
